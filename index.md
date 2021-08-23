@@ -28,8 +28,3 @@ I am a final year Ph.D student at Distributed Systems Lab, TU Darmstadt which is
 6. **Seema Kumar**, Gopi Krishna S Garge, SVR Anand, Malati Hegde, [Experiences with SeaMo: A vertical handoff implementation for heterogeneous wireless networks](https://www.semanticscholar.org/paper/Experiences-with-SeaMo%3A-A-Vertical-Handoff-for-Seema-Garge/8551a3e11107b991e8ac45d130c201375440d886) in Asia-Pacific Advanced Network (APAN) 2011 (<a class="btn btn--info btn--small">C</a>) 
 
 <a class="btn btn--info btn--small">C</a> Conference Paper <a class="btn btn--success btn--small">J</a> Journal Paper <a class="btn btn--primary btn--small">M</a> Magazine Paper
-
-
-## Resume
-
-[seemakumar.pdf]({{ site.url }}/download/seemakumar.pdf)  
